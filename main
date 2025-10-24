@@ -1,0 +1,1 @@
+echo "This file belongs to the main branch. It represents the stable version of the project." > main.txt
